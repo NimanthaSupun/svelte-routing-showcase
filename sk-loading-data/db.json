@@ -1,0 +1,24 @@
+
+
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Wireless Mouse",
+            "price": 25.99,
+            "description": "A comfortable and responsive wireless mouse with ergonomic design."
+        },
+        {
+            "id": 2,
+            "title": "Mechanical Keyboard",
+            "price": 79.99,
+            "description": "A durable mechanical keyboard with customizable RGB lighting."
+        },
+        {
+            "id": 3,
+            "title": "HD Monitor",
+            "price": 149.99,
+            "description": "A 24-inch HD monitor with vibrant colors and fast response time."
+        }
+    ]
+}

@@ -11,7 +11,8 @@
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
 		"test:unit": "vitest",
-		"test": "npm run test:unit -- --run"
+		"test": "npm run test:unit -- --run",
+		"server-json":"json-server --watch db.json --port 4000"
 	},
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
@@ -36,5 +37,8 @@
 		"vite": "^6.2.6",
 		"vitest": "^3.2.3",
 		"vitest-browser-svelte": "^0.1.0"
+	},
+	"dependencies": {
+		"json-server": "^1.0.0-beta.3"
 	}
 }
