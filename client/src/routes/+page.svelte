@@ -19,7 +19,5 @@
 <h1 class="text-xl font-bold">Hello</h1>
 
 <a href="/products">product</a><br>
-
-
 <button on:click={handleClick}>Place Holder</button>
 
