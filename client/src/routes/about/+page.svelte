@@ -8,7 +8,7 @@
     <li>Authentication route groups</li>
     <li>API endpoints with RESTful patterns</li>
     <li>Multi-language and documentation routes</li>
-    <li>Modern UI with Tailwind CSS</li>
+    <!-- <li>Modern UI with Tailwind CSS</li> -->
   </ul>
   <p class="mb-2">Created by <span class="font-semibold">Nimantha Supun</span>.</p>
   <p class="text-sm text-gray-500">Explore the source code on <a href="https://github.com/NimanthaSupun/svelte-routing-showcase" target="_blank" class="text-amber-600 underline">GitHub</a>.</p>
