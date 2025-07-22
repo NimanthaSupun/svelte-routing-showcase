@@ -11,7 +11,6 @@
     }
   }
 </script>
-
 <h1 class="text-2xl font-bold mb-4">Login</h1>
 <form on:submit|preventDefault={handleLogin} class="space-y-4 max-w-md mx-auto p-4 border rounded">
   <div>
