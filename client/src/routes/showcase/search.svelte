@@ -1,4 +1,5 @@
 <script>
+    
   let query = '';
   let results = [];
   let loading = false;
@@ -23,6 +24,7 @@
       loading = false;
     }
   }
+
 </script>
 
 <h1 class="text-2xl font-bold mb-4">Search Showcase</h1>
@@ -42,4 +44,5 @@
       {/each}
     </ul>
   {/if}
+
 </div>
